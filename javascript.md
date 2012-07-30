@@ -1,0 +1,4 @@
+
+Unobtrusive JavaScript是一种将Javascript从HTML结构抽离的设计概念，避免在HTML标签中夹杂一堆onchange、onclick……等属性去挂载Javascript事件，让HTML与Javascript分离，依MVC的原则将功能权责清楚区分，使HTML也变得结构化容易阅读。
+
+

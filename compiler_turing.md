@@ -1,0 +1,37 @@
+因与编译有关的贡献而获得图灵奖者
+- 1．1966 A. J. Perlis --- PhD, MIT; Prof, Yale (was Prof at CMU) (deceased)
+- 由于其在高级程序设计技术和编译器构造方面的影响(主要指在Algol 58和Algol 60的形成和修改过程中的核心和关键作用)。
+- 2．1972 Edsger W. Dijkstra --- PhD, U Amsterdam; Prof, UT Austin
+- 因在编程语言方面的出众表现而获奖.  
+- 3．1974 Donald E. Knuth --- PhD, Caltech; Prof, Stanford
+- 因设计和完成TEX(一种创新的具有很高排版质量的文档制作工具)而被授予该奖.
+- 4．1976 Michael O. Rabin --- PhD, Princeton; Prof, Harvard and Dana S. Scott --- PhD, Princeton; Prof, CMU
+- 因他们的论文"有限自动机与它们的决策问题"中所提出的非确定性机器这一很有价值的概念而获奖.  
+- 5．1977 John Backus --- BS, Columbia; staff, IBM
+- 因对可用的高级编程系统设计有深远和重大的影响而获奖.  是全世界第一套高级语言(High-level Language)FORTRAN的发明小组组长。
+- 6．1978 Robert W. Floyd --- BS, Chicago; Prof, Stanford
+- 因其在软件编程的算法方面的影响，并开创了包括剖析理论、编程语言的语义、自动程序检验、自动程序合成和算法分析在内的多项计算机子学科而被授予该奖.  
+- 7．1979 Kenneth E. Iverson
+- 因对程序设计语言理论、互动式系统及APL的贡献被授予该奖.  
+- 8．1980 C. Anthony R. Hoare --- Prof, Oxford(now at Microsoft)
+- 因对程序设计语言的定义和设计所做的贡献而获奖.  
+- 9．1984 Niklaus Wirth --- PhD, Berkeley; Prof, ETH Zurich
+- 因开发了EULER、 ALGOL-W、 MODULA和PASCAL一系列崭新的计算语言而获奖.  
+- 10．1987 John Cocke --- staff, IBM
+- 因在面向对象的编程语言和相关的编程技巧方面的贡献而获奖.  
+- 11．1991 Robin Milner --- Prof, Cambridge (was at U Edinburgh)
+- 因在可计算的函数的逻辑(LCF)、ML和并行理论(CCS)这三个方面的贡献而获奖.
+- 12．1996 Amir Pnueli --- PhD, Weizmann Institute; Prof, NYU
+- 因在计算中引入Temporal逻辑和对程序及系统检验的贡献被获奖.
+- 13．2001 Ole-Johan Dahl, and Kristen Nygaard --- Profs, U Oslo
+- 因他们在设计编程语言SIMULA I 和SIMULA 67时产生的基础性想法,这些想法是面向对象技术的肇始.
+- 14．2003 Alan Kay --- PhD, Utah; HP Labs (was at Xerox PARC)
+- 因发明第一个完全面向对象的动态计算机程序设计语言Smalltalk.
+- 15．2005 Peter Naur
+- 因在设计Algol 60语言上的贡献。由于其定义的清晰性，Algol 60成为了许多现代程序设计语言的原型。
+- 16．2006 Frances Allen(首位女性获奖者)
+- 因对于优化编译器技术的理论和实践做出的先驱性贡献，这些技术为现代优化编译器和自动并行执行打下了基础。
+- 17．2008 Barbara Liskov
+- 因在计算机程序语言，系统设计，特别是在数据抽象，容错系统设计和分布式计算方面的理论和工程设计方面的杰出贡献。
+
+[http://blog.hit.edu.cn/jsx/post/30.html]
