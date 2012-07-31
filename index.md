@@ -2,7 +2,7 @@
 
 ----
 # big topic
-- [micro-architecture]()
+- [micro-architecture](micro-architecture.md)
 	- soc sopc cpu dsp
 	- x86
 	- arm
